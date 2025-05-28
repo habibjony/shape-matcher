@@ -23,7 +23,7 @@ A fun and educational drag-and-drop game for kids aged 4–6, built using **Reac
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/shape-matcher.git
+git clone https://github.com/habibjony/shape-matcher.git
 cd shape-matcher
 ```
 
