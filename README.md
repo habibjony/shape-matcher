@@ -30,10 +30,7 @@ cd shape-matcher
 Or download the ZIP and extract it.
 
 ### 2. Install Dependencies
-
-```bash
-npm install
-```
+npm install --save gh-pages
 
 ### 3. Run the App
 
