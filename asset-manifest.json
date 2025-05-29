@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shape-matcher/static/css/main.74bc8035.css",
+    "main.js": "/shape-matcher/static/js/main.2e05729e.js",
+    "static/js/885.0b9573a2.chunk.js": "/shape-matcher/static/js/885.0b9573a2.chunk.js",
+    "static/media/success.mp3": "/shape-matcher/static/media/success.bb4156695063152fc860.mp3",
+    "index.html": "/shape-matcher/index.html",
+    "main.74bc8035.css.map": "/shape-matcher/static/css/main.74bc8035.css.map",
+    "main.2e05729e.js.map": "/shape-matcher/static/js/main.2e05729e.js.map",
+    "885.0b9573a2.chunk.js.map": "/shape-matcher/static/js/885.0b9573a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74bc8035.css",
+    "static/js/main.2e05729e.js"
+  ]
+}
